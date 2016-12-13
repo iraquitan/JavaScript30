@@ -43,12 +43,12 @@ body {
     position: absolute;
     top:50%;
     transform-origin:100%;
+    transform: rotate(90deg);
 }
 
 .hour-hand {
     width:25%;
     left:25%;
-    transform-origin:100%;
 }
 
 .second-hand {
